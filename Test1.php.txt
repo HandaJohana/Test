@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> contoh skrip php </title>
+</head>
+<body>
+<?
+	echo "Halo apa kabar"."<br>";
+	print "Halo apa kabar";
+?>
+</body>
+</html>
